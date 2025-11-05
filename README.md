@@ -3,7 +3,7 @@ This portfolio showcases my digital projects and the skills I gained during my s
 
 ## Table of Contents:
   ### Coding Projects
-   - Web-based projects _(with HTML, JavaScript, CSS, TypeScript)_
+   - [Web-based projects] (https://github.com/k1ssjul1a/k1ssjul1a.github.io/tree/14efa7d6b3b9e4c9345a6b92b66804451eb8c688/Portfolio%20Content%20/Coding%20Projects%20/Web-based%20Projects%20) _(with HTML, JavaScript, CSS, TypeScript)_
    - Combined semesterproject: web project & IT projectmanagement _(with HTML, JavaScript, CSS, working with SCRUM project management method - group project)_
    - Other projects _(!to be updated! with Python, Java)_
 
