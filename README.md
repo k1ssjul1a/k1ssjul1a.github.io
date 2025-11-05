@@ -26,3 +26,6 @@ This portfolio showcases my digital projects and the skills I gained during my s
    - Knowledge about various project management methods
    - Teamwork, communication, flexibility, ability to learn :)
 
+
+_p.s.: some files may take longer to load._
+
