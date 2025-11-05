@@ -21,7 +21,7 @@ This portfolio showcases my digital projects and the skills I gained during my s
 ## Programming languages & Tools & Skills (!to be updated!):
    - HTML, JavaScript, CSS, (php), TypeScript
    - Python, Java, SQL
-   - Figma, UX methods & Visual design methods
+   - Figma, Jira, UX methods & Visual design methods
    - Adobe Photoshop, Adobe Indesign, Adobe Illustrator
    - Knowledge about various project management methods
    - Teamwork, communication, flexibility, ability to learn :)
