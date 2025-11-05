@@ -1,0 +1,93 @@
+@font-face {
+    font-family: "Funnel Display Light";
+    src: url("./FunnelDisplay-VariableFont_wght.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+article {
+    max-width: 960px;
+    margin: auto;
+}
+header, nav {
+    background-color: #010e15;
+    text-align: center;
+    color: #eef2fb;
+    padding: 1.5rem;
+    font-family: "Funnel Display Light", "Space Mono";
+}
+nav a {
+    color: #eef2fb;
+}
+
+body{
+    background-image: url("background_pic.jpg");
+
+}
+
+html, body, h1 {
+    margin: 0;
+    padding: 0;
+    font-family: "Funnel Display Light", "Space Mono";
+}
+canvas {
+    border: 2px #010e15;
+    margin-top: 2em;
+    box-shadow: 1px 1px 2px #aeaeae;
+    border-radius: 10px;
+    background-color: rgba(255, 248, 239, 0.82);
+}
+#wordForm {
+    text-align: center;
+    max-width: 960px;
+    margin: 2rem auto;
+}
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.flex > * {
+    flex: 1 1 50%;
+}
+
+#resultField {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1px 3px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+button {
+    border-radius: 10px;
+    background-color: #010e15;
+    padding: 5px 6px;
+    color: #eef2fb;
+}
+
+input {
+    border-radius: 10px;
+    padding: 5px 6px;
+}
+
+section {
+    border-radius: 10px;
+    background-color: rgba(255, 248, 239, 0.82);
+    padding: 5px;
+}
+
+#wordListSection {
+    justify-items: center;
+
+}
+
+#wordList {
+    justify-items: center;
+}
+
+li {
+    display: flex;
+    flex-wrap: wrap;
+}
