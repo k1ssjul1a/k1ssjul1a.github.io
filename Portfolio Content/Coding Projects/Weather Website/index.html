@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wetter App</title>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Wetter App</h1>
+
+    <!-- TODO Formular zur Eingabe von PLZ/Ort -->
+    <div class="inputDiv" id="inputDiv">
+        <h3> Stadt: </h3>
+        <input type="text" class="cityInput" id="cityInput" placeholder="Stadt eingeben...">
+        <h3> PLZ: </h3>
+        <input type="number" class="cityInput" id="zipInput" placeholder="PLZ eingeben...">
+        <button type="submit" id="submitBtn">Suchen</button>
+    </div>
+
+    <!-- TODO Anzeige des abgefragten Wetters -->
+    <section class="center"> <!-- needed for styling -->
+    <div class="displayDiv" id="displayDiv">
+        <h2 id="cityName"></h2>
+        <div id="iconDisplay"></div>
+        <h2 id="celsiusDisplay"></h2>
+        <h2 id="weatherDescription"></h2>
+    </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

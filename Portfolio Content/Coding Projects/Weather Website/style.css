@@ -1,0 +1,60 @@
+@font-face {
+    font-family: "Outfit Thin";
+    src: url("./Outfit-VariableFont_wght.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    background-color: #ece6e6;
+    font-family: "Outfit Thin", Arial;
+    align-content: center;
+    justify-content: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.inputDiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.displayDiv {
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+
+input {
+    padding: 10px;
+    border-radius: 20px;
+    border-color: #000205;
+    border-style: solid;
+    font-family: "Outfit Thin", Arial;
+    margin: 5px;
+}
+
+button {
+    width: 100px;
+    padding: 10px;
+    border-radius: 20px;
+    border-color: #000205;
+    border-style: solid;
+    font-family: "Outfit Thin", Arial;
+    background-color: #000205;
+    color: #ece6e6;
+    margin: 5px;
+}
+
+
+img {
+    max-height: 200px;
+}
