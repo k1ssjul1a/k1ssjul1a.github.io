@@ -1,0 +1,88 @@
+body {
+    font-family: 'Georgia', serif;
+    background-image: url('https://images.unsplash.com/photo-1514539079130-25950c84af65?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+#game-container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    width: 90%;
+    margin: auto;
+}
+
+#wrapperDiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.flex {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.flex div {
+    flex: 1 1 40%;
+}
+h1 {
+    font-size: 36px;
+    text-shadow: 2px 2px 5px black;
+}
+button {
+    background: gold;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 5px;
+}
+button:hover {
+    background: darkgoldenrod;
+}
+#output {
+    white-space: pre-line;
+    text-align: left;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 10px;
+    border-radius: 5px;
+    min-height: 150px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+#inputArea{
+    white-space: pre-line;
+    text-align: left;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 10px;
+    border-radius: 5px;
+    min-height: 150px;
+    margin-top: 20px;
+    margin-right: 10px;
+    justify-items: center;
+}
+
+#inputText {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#player-info {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 10px;
+    border-radius: 5px;
+    text-align: left;
+    font-size: 18px;
+    margin-top: 10px;
+    display: inline-block;
+    min-width: 250px;
+}
