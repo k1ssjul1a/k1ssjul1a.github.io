@@ -17,7 +17,7 @@ This portfolio showcases my digital projects and the skills I gained during my s
    - Personal poster designs _(with Adobe Photoshop)_
 
   ### Photography Projects
-   - Creative photography
+   - Creative photography _(!to be updated!)_
 
 ## Programming languages & Tools & Skills (!to be updated!):
    - HTML, JavaScript, CSS, (php), TypeScript
