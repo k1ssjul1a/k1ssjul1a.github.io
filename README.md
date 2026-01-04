@@ -18,7 +18,7 @@ This portfolio showcases my digital projects and the skills I gained during my s
   ### Photography Projects
    - Creative photography _(photo collection)_
 
-## Programming languages & Tools & Skills (!to be updated!):
+## Programming languages & Tools & Skills:
    - HTML, JavaScript, CSS, (php), TypeScript, Vue.js
    - Python, Java, SQL
    - Figma, UX methods & Visual design methods
