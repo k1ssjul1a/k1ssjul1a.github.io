@@ -11,19 +11,13 @@ This portfolio showcases my digital projects and the skills I gained during my s
    - App design semesterproject _(with Figma, using various UX methods and visual design principles - group project)_
    - Personal side projects _(with Figma)_
 
-  ### Mediadesign Projects
-   - Various school projects _(with Adobe Photoshop, Adobe Illustrator, Adobe Indesign)_
-   - Personal poster designs _(with Adobe Photoshop)_
-
-  ### Photography Projects
-   - Creative photography _(photo collection)_
-
 ## Programming languages & Tools & Skills:
    - HTML, JavaScript, CSS, (php), TypeScript, Vue.js
    - Python, Java, SQL
    - Figma, UX methods & Visual design methods
    - Adobe Photoshop, Adobe Indesign, Adobe Illustrator
    - Jira, Knowledge about various project management methods
+   - Flutter
    - Teamwork, 4C's (communication, collaboration, creativity, critical thinking), flexibility, ability to learn :)
 
 
